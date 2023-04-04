@@ -1,9 +1,8 @@
-# smartfarm
+# Smart Farm Application
 
 
 https://user-images.githubusercontent.com/93053169/229908185-888fcb3c-fe31-47c8-9dee-d617c39d018a.mp4A 
 
-new Flutter project.
 
 ## Getting Started
 
