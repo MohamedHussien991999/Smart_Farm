@@ -1,5 +1,6 @@
 # smartfarm
 
+![1](https://user-images.githubusercontent.com/93053169/229907704-4fbf1ff1-0b75-42a5-8b6c-56217fb6b3b0.gif)
 A new Flutter project.
 
 ## Getting Started
